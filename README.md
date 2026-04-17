@@ -41,6 +41,8 @@ Focusing on building low-code business applications using Power Apps. Covered:
 
 The training included hands-on exercises, enabling participants to develop functional apps and apply them to real-world business scenarios.
 
+https://github.com/user-attachments/assets/bd8813be-9372-42a5-bf2b-089c584d4462
+
 ---
 
 **4. GIGI AI Chatbot**
